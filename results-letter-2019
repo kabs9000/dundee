@@ -33,7 +33,7 @@
     <script src="../plugins/javascript/tablesaw/tablesaw.min.js?v=920.1"></script>
     <script src="../plugins/javascript/datatables/media/js/jquery.dataTables.min.js?v=910.1"></script>
     <script src="../plugins/javascript/datatables/media/js/dataTables.tribal.min.js?v=920.1"></script>
-    
+
     <script>
       function uSubmit(){} //include dummy function to prevent errors when submitting
     </script>
@@ -53,7 +53,7 @@
   <body>
     <a id="sv-page-top"></a>
     <div class="sv-page-content sv-container-fluid">
-    
+
 <!-- end of body-start-blank.hts  -->
 
 <script type="text/javascript">sits_widget_bp = {"dt":{"emptyTable":"No information available","info":"Showing _START_ to _END_ of _TOTAL_ entries","infoEmpty":"No entries to show","infoFiltered":" (filtered from _MAX_ total entries)","lengthMenu":"Show _MENU_ entries","loadingRecords":"Loading...","processing":"Processing...","search":"Search:","zeroRecords":"No matching entries found","paginate":{"first":"First","last":"Last","next":"Next","previous":"Previous"},"aria":{"sortAscending":": use to sort column ascending","sortDescending":": use to sort column descending"},"tribal":{"detailsLabelOpen":"Activate to show additional details for this row","detailsLabelClose":"Activate to hide additional details for this row","detailsLabelDataOpen":"Activate to show additional details for _DATA_","detailsLabelDataClose":"Activate to hide additional details for _DATA_"}},"ts":{"modes":["Stack","Swipe","Toggle"],"columns":"Col<span class=\"a11y-sm\">umn<\/span>s","columnBtnText":"Columns","columnsDialogError":"No eligible columns.","sort":"Sort","prevBtnText":"Show previous column on the following table","nextBtnText":"Show next column on the following table","prevBtnDisabledText":"Show previous column on the following table (not currently available)","nextBtnDisabledText":"Show next column on the following table (not currently available)","sortAscText":": use to sort column ascending","sortDescText":": use to sort column descending"},"pg":{"infoText":"Showing page {0} of {1}","infoWithRecsText":"Showing page {0} of {1} with {2} records per page","firstBtnText":"First","prevBtnText":"Previous","nextBtnText":"Next","lastBtnText":"Last","firstBtnAriaText":"Show first page","prevBtnAriaText":"Show previous page","nextBtnAriaText":"Show next page","lastBtnAriaText":"Show last page","pageBtnAriaText":"Show page {0}"},"tp":{"currentText":"Now","closeText":"Done","timeOnlyTitle":"Choose Time","timeText":"Time","hourText":"Hour","minuteText":"Minute","secondText":"Second","millisecText":"Millisecond","microsecText":"Microsecond","timezoneText":"Time Zone"},"ui":{"dialogOk":"Ok","dialogCancel":"Cancel","tabsClose":"Close","dialogClose":"Close","moreDetails":"More Details","datePickerDate":"Select a date","datePickerTime":"Select a time","datePickerDateTime":"Select a date\/time","loading":"Loading...","selectAllTitle":"Select All","selectAll":"Select All","selectNone":"Select None","invertAll":"Invert All","errorText":"Error","datePickerMonth":"Select a month","datePickerYear":"Select a year","tabsScrollLeft":"Scroll left","tabsScrollRight":"Scroll right"},"ld":{"loadTitle":"Loading","loadContent":"Loading, please wait...","processTitle":"Processing","processContent":"Processing, please wait...","saveTitle":"Saving","saveContent":"Saving, please wait..."},"to":{"sessionTitle":"Session Expiry","sessionContent":"Your session is due to expire in approximately {0} minute(s). If you would like to continue using this session, please click \"Continue\".","pageTitle":"Page Expiry","pageContent":"This page is due to expire in approximately {0} minute(s). If you would like to continue using this page, please click \"Continue\".","buttonContinue":"Continue"}};sits_widget_det = {"user":{"user":"180024453","name":"KUMAR,"}}</script>
@@ -65,22 +65,22 @@
 <!-- End Of Extra Javascripts -->
 
 <div id = "sitspagecontent">
-  
-    
-      
+
+
+
       <input type="hidden" name="NKEY.DUMMY.MENSYS.1" value="384CC22CAA2E11E93SL4UB9pa6P7zaTGhdT-CVRI6tJRJh5OSlBlUVxtTdNC1Dtyy5be7wGFwk63_g60Byu8RrJzhqd55mM6BULHhgF8BrFtWjiFX57KWzHUQUNYgAhX1jrYJJfgcQG_C4TN0O_KCoI1avpI0B0vaga4jTxHk1TzHcQi7gDbgw2UGUwCB5YA6azfbwHjAXUsXBv0_UX0x5iuZmW3WenyJjepu7s2a-th621PZZ8xoSOwiXk" disabled="disabled" id="YGSLNKEY" />
       <input type="hidden" name="RUN_MODE.DUMMY.MENSYS.1" value="" />
-      
-      
-        
+
+
+
       <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script>hj('trigger', 'examresultsletter');</script>
 <title>Exam Results Letter</title>
-<style type="text/css"> 
-<!-- 
+<style type="text/css">
+<!--
 body  {
 	font: 100% Verdana, Arial, Helvetica, sans-serif;
 	font-size:11px;
@@ -90,35 +90,35 @@ body  {
 	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
 	color: #000000;
 }
-.thrColAbsHdr #container { 
+.thrColAbsHdr #container {
 	position: relative; /* adding position: relative allows you to position the two sidebars relative to this container */
 	width: 720px;  /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
 	background: #FFFFFF;
 	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
 	border: 1px solid #ffffff;
 	text-align: left; /* this overrides the text-align: center on the body element. */
-} 
+}
 
 
-.thrColAbsHdr #header { 
+.thrColAbsHdr #header {
 	height: 165px; /* if you're changing the source order of the columns, you'll may want to use a height on the header so that you can give the columns a predictable top value */
-	background: #ffffff; 
+	background: #ffffff;
 	padding: 0 0px 0 0px;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
-} 
+}
 .thrColAbsHdr #header h1 {
 	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
 	padding: 0px 0; /* using padding instead of margin will allow you to keep the element away from the edges of the div */
 }
 
-.thrColAbsHdr #mainContent { 
+.thrColAbsHdr #mainContent {
 	margin: 0px 60px 0px 40px; /* the right and left margins on this div element creates the two outer columns on the sides of the page. No matter how much content the sidebar divs contain, the column space will remain. */
 	padding: 0 10px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
 	height: 740px;
 }
-.thrColAbsHdr #footer { 
+.thrColAbsHdr #footer {
 	padding: 0 0px 0 0px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
 	background:#ffffff;
-} 
+}
 .thrColAbsHdr #footer p {
 	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
 	padding: 0px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
@@ -154,25 +154,25 @@ table.gridtable td {
 	background-color: #ffffff;
 }
 
---> 
+-->
 </style></head>
 
 <body class="thrColAbsHdr">
 
 <div id="container">
   <div id="header">
-  
+
   <!-- old header removed 4 June 2019 by Kieran Clifford     <img src="http://www.dundee.ac.uk/registry/reg_sits/_lib/jpg/letter_head3.jpg" height="165" width="720" /> -->
-       
+
 <img src="https://evision.dundee.ac.uk/images/dundee/UniversityLogo.jpg"  height="165"  />
 
 
   <!-- end #header --></div>
- 
-  <div id="mainContent">
-    
 
-<br/> 
+  <div id="mainContent">
+
+
+<br/>
 
 
 <p>19 July 2019 <br />
@@ -198,7 +198,7 @@ CM1 2AF
 
 
 
-<!-- ################################################################################################## --> 
+<!-- ################################################################################################## -->
 
 
 <p>
@@ -225,47 +225,47 @@ Please find below the results of modules for the academic year 2018/9.  Students
     <th scope="col">Attempts</th>
     <th scope="col">Module Result</th>
   </tr>
-  
+
  <tr>
 	<td align="center"> AC11001</td>
 	<td>Introduction to Software Development</td>
 <td align="center">2</td>
-	<td align="center">M3 </td>
+	<td align="center">A3 </td>
 </tr>
 
  <tr>
 	<td align="center"> AC11002</td>
 	<td>www Authoring</td>
 <td align="center">1</td>
-	<td align="center">D2 </td>
+	<td align="center">A2 </td>
 </tr>
 
  <tr>
 	<td align="center"> AC12001</td>
 	<td>Introduction to Data Structures and Algorithms</td>
 <td align="center">2</td>
-	<td align="center">CF </td>
+	<td align="center">A2 </td>
 </tr>
 
  <tr>
 	<td align="center"> AC22006</td>
 	<td>Physical Computing</td>
 <td align="center">1</td>
-	<td align="center">C1 </td>
+	<td align="center">A3 </td>
 </tr>
 
  <tr>
 	<td align="center"> MA11001</td>
 	<td>Mathematics 1A</td>
 <td align="center">2</td>
-	<td align="center">M3 </td>
+	<td align="center">A3 </td>
 </tr>
 
  <tr>
 	<td align="center"> MA12001</td>
 	<td>Mathematics 1B</td>
 <td align="center">2</td>
-	<td align="center">CF </td>
+	<td align="center">A1 </td>
 </tr>
 
 
@@ -288,20 +288,18 @@ Student Records, Fees, Modules & Assessments Manager
 </body>
 </html>
 
-      
-    
+
+
   <input type="hidden" name="%.DUMMY.MENSYS.1" value="J6uEJG/KoxUpyiFMW3X4dezb7C0oxdI40tXqQUwCZYw=;new;;" />
-</div>  
+</div>
 
 <!-- body-end.hts page header include starts here -->
-  
+
         <!-- start of body-end-blank.hts  -->
-    
+
     </div>
-    
+
   </body>
 </html>
 
 <!-- end of body-start-blank.hts  -->
-
-  
